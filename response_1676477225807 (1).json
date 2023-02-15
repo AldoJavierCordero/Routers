@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "Modelo": "Porcelanato",
+    "Marca": "Lamosa",
+    "Precio": 500,
+    "Color": "Negro"
+  },
+  {
+    "id": 2,
+    "Modelo": "Azulejo",
+    "Marca": "Lamosa",
+    "Precio": 600,
+    "Color": "Gris"
+  },
+  {
+    "id": 3,
+    "Modelo": "Azulejo",
+    "Marca": "Interseramic",
+    "Precio": 4500,
+    "Color": "Blanco"
+  },
+  {
+    "id": 4,
+    "Modelo": "Marmol",
+    "Marca": "Interceramic",
+    "Precio": 1000,
+    "Color": "dorados"
+  },
+  {
+    "id": 5,
+    "Modelo": "Porcelanato",
+    "Marca": "interceramic",
+    "Precio": 12000,
+    "Color": "Negro"
+  }
+]
